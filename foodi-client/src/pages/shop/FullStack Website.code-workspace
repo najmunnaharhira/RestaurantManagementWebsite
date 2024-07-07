@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "FullStack Website",
+			"path": "../../../../../../../../../Downloads/FullStack Website"
+		}
+	],
+	"settings": {
+		"debug.allowBreakpointsEverywhere": true,
+		"files.autoGuessEncoding": true,
+		"git.ignoreLimitWarning": true
+	}
+}
