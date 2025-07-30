@@ -1,9 +1,10 @@
-import React, { useContext, useEffect, useState } from "react";
-import logo from "/logo.png";
-import { FaRegUser } from "react-icons/fa";
 import Modal from "./Modal";
-import { AuthContext } from "../contexts/AuthProvider";
 import Profile from "./Profile";
+import React, { useContext, useEffect, useState } from "react";
+import { FaRegUser } from "react-icons/fa";
+import { AuthContext } from "../contexts/AuthProvider";
+
+// import logo from "/logo.png";
 
 const Navbar = () => {
   const [isSticky, setSticky] = useState(false);
